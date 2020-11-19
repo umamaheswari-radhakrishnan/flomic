@@ -1,0 +1,609 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Fondamento&display=swap");
+*{
+	margin:0;
+}
+img,h1{
+	float: left;
+	width: 16.6666666;
+}
+
+.flomic1{
+	background-color: #fff;
+}
+ul{
+	list-style-type: none;
+}
+.div1{
+	color: #00ffff;
+	position: relative;
+}
+.img1{
+		max-width:100%;
+		height: auto;
+		margin-left:50px;
+		margin-right: 0px;
+		float: left;
+		
+}
+.para{
+	color: #fff;
+	font-size: 40px;
+	 position:absolute;
+    top: 200px;
+    left:350px;
+	right: 100px;
+    z-index: 2;
+	text-align: center;}
+	
+.button1{
+	background-color:	#0000FF;
+	color: #fff;
+	
+	padding: 10px;
+	font-size: 15px;
+	font-weight: bold;
+}
+.layoutright{
+	border: 4px solid red;
+		margin-right: 100px;
+		
+	  margin-left: 280px;
+  padding: 0px 10px;
+}
+.layoutleft{
+	padding-left: 84px;
+	padding-right: 100px;
+	 height: 100%; 
+  width: 160px; 
+  position: fixed;
+  z-index: 1;
+  top: 0; 
+  left: 0;
+  background-color: #A9A9A9; 
+    padding-top: 40px;
+
+}
+#welcome1{
+position: absolute;
+bottom: 100px;
+padding-left: 300px;
+margin-top: 100px;
+color: #59bfff;
+
+
+	
+}
+#welcome2{
+	position: absolute;
+	bottom: 70px;
+	left: 450px;
+	text-align: center;
+	font-size:20px;
+	
+}
+.horizontal1 hr
+{
+	position: absolute;
+	bottom: 40px;
+	left: 460px;
+	width:65%;
+	border: 1px solid #ffb347;
+}
+.aboutus1{
+	position: absolute;
+	bottom: 0px;
+	left: 460px;
+	background-color:#ffb347;
+	display: inline;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid #ffb347;
+	color: #fff;
+  
+}
+.photo1{
+	margin-top: 200px;
+	padding-left: 120px;
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.photo2{
+	margin-top: 200px;
+	margin-left: -60px;
+	
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.photo3{
+	
+		margin-top: 200px;
+		margin-left: -60px;
+		
+
+	text-align: center;
+	float: right;
+	width: 33.3333333%;
+	
+}
+.clear2{
+	clear: both;
+}
+.names{
+	
+}
+.names1{
+	color:#ffb347;
+	margin-right: 10px;
+	margin-left: -30px;
+	padding-left: -30px;
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.names2
+{	color:#ffb347;
+	margin-right: -10px;
+	margin-left: -10px;
+	padding-left: -70px;
+	
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.names3{
+	color:#ffb347;
+	margin-right: 10px;
+	margin-left: -10px;
+	padding-left: -70px;
+	padding-right: -100px;
+	
+	text-align: center;
+	float: right;
+	width: 33.3333333%;
+}
+ .clear3{
+ clear:both;}
+span{
+	color:#000;
+}
+.management1{
+	color: #ffb347;
+}
+#team1{
+	position: absolute;
+	bottom: -350px;
+	left: 455px;
+}
+#team2{
+	position: absolute;
+	bottom: -550px;
+	left: 455px;
+	width: 30%;
+}
+#team3{
+	position: absolute;
+	bottom: -750px;
+	left: 455px;
+	width: 30%;
+}
+
+.teams{
+	float: left;
+	width: 30%;
+}
+.picture1{
+	margin-top: 200px;
+	margin-right: 30px;
+	text-align: center;
+	float: right;
+	width: 30%;
+}	
+.horizontal2 hr
+{
+	position: absolute;
+	bottom: -800px;
+	left: 460px;
+	width:65%;
+	border: 1px solid #C724B1;;
+}
+.services1{
+	position: absolute;
+	bottom: -840px;
+	left: 460px;
+	background-color:#C724B1;
+	display: inline;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid #C724B1;
+	color: #fff;
+  
+}
+.box1 h4
+{
+	background-color:#C724B1;
+	position: absolute;
+	bottom: -930px;
+	left: 460px;
+	padding: 20px;
+	
+	
+}
+.box2 h4
+{
+background-color:#C724B1;
+	position: absolute;
+	bottom: -930px;
+	left: 760px;
+	padding: 20px;
+	
+	
+}
+.box3 h4
+{
+	background-color:#C724B1;
+	position: absolute;
+	bottom: -930px;
+	left: 1060px;
+	padding: 20px;
+}
+.skill1 
+{
+	color:#C724B1;
+	font-size: 30px;
+	font-weight: normal;
+	position: absolute;
+	bottom: -1030px;
+	left: 460px;
+	
+}
+.paragraph3 p{
+	margin-left: 120px;
+	margin-top: 750px;
+	float:left;
+	width: 50%;
+	}
+	.sidebara{
+		position: relative;
+		border: 1px solid black;
+		width: 1000%;
+		
+		padding: 10px;
+	}
+	.sidebar1{
+		position: absolute;
+		height: 20px;
+		width: 220px;
+		top: 0px;
+		left: 0px;
+		right: -1px;
+		background-color: #C724B1;
+		color:#000;
+		text-align:center;
+	}
+	.side1{
+		position:absolute;
+		bottom: -1060px;
+		right: 400px;
+	}
+	.sidebarb{
+		position: relative;
+		border: 1px solid black;
+		width: 1000%;
+		
+		padding: 10px;
+	}
+	.sidebar2{
+		position: absolute;
+		height: 21px;
+		width: 200px;
+		top: 0px;
+		left: 0px;
+		right: -1px;
+		background-color: #C724B1;
+		color:#000;
+		text-align:center;
+	}
+	.side2{
+		position:absolute;
+		bottom: -1090px;
+		right: 400px;
+	}
+	.sidebarc{
+		position: relative;
+		border: 1px solid black;
+		width: 1000%;
+		
+		padding: 10px;
+	}
+	.sidebar3{
+		position: absolute;
+		height: 21px;
+		width: 215px;
+		top: 0px;
+		left: 0px;
+		right: -1px;
+		background-color: #C724B1;
+		color:#000;
+		text-align:center;
+	}
+	.side3{
+		position:absolute;
+		bottom: -1120px;
+		right: 400px;
+	}
+	.horizontal3 hr
+{
+	position: absolute;
+	bottom:-1180px;
+	left: 460px;
+	width:65%;
+	border: 1px solid #90EE90;
+}
+.portfolio1{
+	position: absolute;
+	bottom:-1220px;
+	left: 460px;
+	background-color:#90EE90;
+	display: inline;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid #90EE90;
+	color: #fff;
+  
+}
+.photoa{
+	margin-top: 200px;
+	padding-left: 120px;
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.photob{
+	margin-top: 200px;
+	margin-left: -60px;
+	
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.photoc{
+	
+		margin-top: 200px;
+		margin-left: -60px;
+		
+
+	text-align: center;
+	float: right;
+	width: 33.3333333%;
+	
+}
+.clear2{
+	clear: both;
+}
+.names4{
+	color:#90EE90;
+	margin-right: 10px;
+	margin-left: 40px;
+	padding-left: -30px;
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.names5
+{	color:#90EE90;
+	margin-right: -10px;
+	margin-left: -10px;
+	padding-left: -70px;
+	
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.names6{
+	color:#90EE90;
+	margin-right: 10px;
+	margin-left: -10px;
+	margin-top: -20px;
+	padding-left: -70px;
+	padding-right: -100px;
+	
+	text-align: center;
+	float: right;
+	width: 33.3333333%;
+}
+ .clear3{
+ clear:both;}
+ .photod{
+	margin-top: 50px;
+	padding-left: 120px;
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.photoe{
+	margin-top: 50px;
+	margin-left: -60px;
+	
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.photof{
+	
+		margin-top: 50px;
+		margin-left: -60px;
+		
+
+	text-align: center;
+	float: right;
+	width: 33.3333333%;
+	
+}
+.clear7{
+	clear: both;
+}
+.names7{
+	color:#90EE90;
+	margin-right: 10px;
+	margin-left: 40px;
+	padding-left: -30px;
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.names8
+{	color:#90EE90;
+	margin-right: -10px;
+	margin-left: -10px;
+	padding-left: -70px;
+	
+	text-align: center;
+	float: left;
+	width: 33.3333333%;
+	
+}
+.names9{
+	color:#90EE90;
+	margin-right: 10px;
+	margin-left: -10px;
+	margin-top: -20px;
+	padding-left: -70px;
+	padding-right: -100px;
+	
+	text-align: center;
+	float: right;
+	width: 33.3333333%;
+}
+ .clear8{
+ clear:both;}
+ 
+.button2{
+	margin-left: 500px;
+	margin-top: 30px;
+	background-color:#90EE90;
+	border: 1px solid #90EE90;
+	color: #000;
+	
+	padding: 10px;
+	font-size: 15px;
+	
+}
+.horizontal5 hr
+{
+	position: absolute;
+	bottom: -1900px;
+	left: 460px;
+	width:65%;
+	border: 1px solid #ff6289;
+}
+.contactus1{
+	position: absolute;
+	bottom: -1940px;
+	left: 460px;
+	background-color: #ff6289;
+	display: inline;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid  #ff6289;
+	color: #fff;
+  
+}
+	
+.map1{
+	position: absolute;
+	top: 2700px;
+	left: 460px;
+	bottom: -2200px;
+	right: 500px;
+	max-width:100%;
+	
+}
+.detail1{
+	position: absolute;
+	top: 3200px;
+	left: 460px;
+	
+}
+.detail1{
+	width: 65%;
+}
+.namei{
+	
+	position: absolute;
+	left:5px;
+	bottom: -10px;
+	
+}
+.emaili{
+	position: absolute;
+	left:400px;
+	bottom: -10px;
+	
+}
+.subjecti{
+	position: absolute;
+	left:795px;
+	bottom: -10px;
+}
+.nameii{
+	
+	position: absolute;
+	left:1px;
+	bottom: -40px;
+	padding: 5px;
+	
+}
+.emailii{
+	position: absolute;
+	left:400px;
+	bottom: -40px;
+}
+.subjectii{
+	position: absolute;
+	left:795px;
+	bottom: -40px;
+}
+.message1{
+	
+}
+.message2{
+	position: absolute;
+	left:460px;
+	bottom: -2550px;
+}
+.message3{
+	position: absolute;
+	left:460px;
+	bottom: -2620px;
+}
+.button5{
+	position: absolute;
+	background-color: #ff6289;
+	color: #000;
+	left:460px;
+	bottom: -2660px;
+	border: 1px solid #ff6289;
+}
+.footer{
+	background-color: #A9A9A9;
+	position: absolute;
+	left:460px;
+	bottom: -2760px;
+	display: inline-block;
+	width: 100%;
+	
+}
